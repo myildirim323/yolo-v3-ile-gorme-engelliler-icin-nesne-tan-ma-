@@ -5,4 +5,3 @@
 
 - https://pjreddie.com/media/files/yolov3.weights linkinden ağırlık dosyasını indirip yolo-coco klasörüne yapıştırın.
 
-## Türkçe tek kaynaktır.
